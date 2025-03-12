@@ -7,10 +7,10 @@ export default function Home() {
         <div className="left-[50%] top-[50%] absolute transform -translate-x-1/2 -translate-y-1/2 justify-center text-[#db4439] text-base font-black font-['Inknut_Antiqua']">Click</div>
       </div>
       <div className="origin-top-left rotate-[-8.64deg] w-[543px] h-[590.40px] left-[1068.69px] top-[226px] absolute">
-        <div className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute bg-[#d9d9d9] shadow-md" />
-        <img className="w-[630.99px] h-[1054.71px] left-[81.51px] top-[-57.62px] absolute" src="https://placehold.co/631x1055" />
+        <div className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute bg-[#d9d9d9] rotate-[15deg] shadow-md" />
+        <img className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute rotate-[15deg] absolute" src="istockphoto-174680810-612x612.jpg" />
       </div>
-      <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">Bla Bla Coffee!</div>
+      <div className="w-[680px] left-[143px] top-[500px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">Bla Bla Coffee!</div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Inknut_Antiqua'] leading-[48.80px]">Your NO.1 Choice </div>
       <div className="left-[270px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Inknut_Antiqua']">Menu</div>
       <div className="left-[64px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Inknut_Antiqua']">Home</div>
