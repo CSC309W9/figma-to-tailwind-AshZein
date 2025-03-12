@@ -3,6 +3,7 @@ export default function Home() {
   return (
     <div className="w-[1769px] h-[1151px] relative bg-gradient-to-b from-[#db4439] to-[#75241e] overflow-hidden shadow-lg">
       <div className="w-[150px] h-[52px] left-[1567px] top-[58px] absolute">
+        <div className="w-[150px] h-[52px] left-[3px] top-[5px] absolute bg-[#000000] opacity-20 rounded-[49px]" />
         <div className="w-[150px] h-[52px] left-0 top-0 absolute bg-[#eaecd7] rounded-[49px]" />
         <div className="left-[50%] top-[50%] absolute transform -translate-x-1/2 -translate-y-1/2 justify-center text-[#db4439] text-base font-black font-['Inknut_Antiqua']">Click</div>
       </div>
